@@ -54,5 +54,16 @@ To run my Module 7 Python file, open a terminal in the repository folder and typ
 
 
 
+Reflection
+1.```
+7a6d0ca (HEAD -> main, origin/main, origin/HEAD) add README with module listing and run instructions
+9b2aa5b add module 7 functions: calculate_tax, apply_discount, final_price
+9212f5b add .gitignore for Python and OS files
+3288bc3 Initial commit
+```
+2. git changes my approach by being able to back up my work in case something goes wrong. Instead of saving separate versions, I can save it all into one version.
+
+
+3.I would add my private files to gitignore so no one can see them.
 
 
